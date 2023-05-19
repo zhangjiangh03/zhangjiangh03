@@ -7,3 +7,4 @@ git push --force origin main
 cls
 
 echo Git Push Completed.
+pause
