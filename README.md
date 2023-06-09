@@ -9,4 +9,4 @@
 |B站|[@张江寒Zhang](https://space.bilibili.com/40820052)|
 |CSDN|[@张江寒Zhang](https://blog.csdn.net/m0_73331512)|
 |微博|[@张江寒Zhang](https://weibo.com/u/7789430693)|
-|微信公众号|<img src="img/qrcode.jpg" alt="qrcode.jpg" width="200" height="200">|
+|微信公众号|@月夜笔记<br><img src="img/qrcode.jpg" width="200" height="200">|
